@@ -2,7 +2,7 @@
 #define IR_SENSOR_LEFT 12
 #define MOTOR_SPEED 180
 
-//Right motor
+//Right motor to turn
 int enableRightMotor=6;
 int rightMotorPin1=7;
 int rightMotorPin2=8;
