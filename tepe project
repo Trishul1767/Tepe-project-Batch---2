@@ -7,7 +7,7 @@ int enableRightMotor=6;
 int rightMotorPin1=7;
 int rightMotorPin2=8;
 
-//Left motor
+//Left motor to make the wheel turn
 int enableLeftMotor=5;
 int leftMotorPin1=9;
 int leftMotorPin2=10;
